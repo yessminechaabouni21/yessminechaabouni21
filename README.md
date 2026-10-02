@@ -1,80 +1,119 @@
-# 💫 About Me:
-# Hi, I'm Yessmine 👋<br><br>I'm a **Geomatics Engineering student** focused on **GeoAI, Remote Sensing, Computer Vision, and AI/ML** 🌍<br><br>I enjoy building intelligent systems that combine **geospatial data, satellite imagery, machine learning, and real-world applications** — from Earth Observation and spatial analytics to geospatial intelligence and smart systems.<br><br>* 🔭 **Currently working on:** GeoAI, Remote Sensing, Computer Vision, and AI-driven geospatial applications<br>* 🧠 **Interested in:** Earth Observation, GEOINT, Edge AI, Spatial AI, and intelligent sensing systems<br>* 🤝 **Open to collaborate on:** Geospatial AI, satellite imagery, computer vision, and AI/ML projects<br>* 🚀 **Exploring:** Embedded AI, edge computing, and hardware–software integration<br>* 📫 **Reach me:** [chaabouni.yessmine@mse.u-manouba.tn](mailto:chaabouni.yessmine@mse.u-manouba.tn)<br>
+# Hi, I'm Yessmine 👋
+**Geomatics Engineering Student · GeoAI · Remote Sensing · Computer Vision**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yessmine-chaabouni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaabouni.yessmine@mse.u-manouba.tn) 
-## Tech Stack:
-### 🌍 Geospatial & Remote Sensing
+## 🌍 What I Build
 
-[![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge\&logo=googleearthengine\&logoColor=white)](https://earthengine.google.com/)
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge\&logo=qgis\&logoColor=white)](https://qgis.org/)
-[![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge\&logo=arcgis\&logoColor=white)](https://www.arcgis.com/)
-[![ENVI](https://img.shields.io/badge/ENVI-Remote%20Sensing-555555?style=for-the-badge)](https://www.nv5geospatialsoftware.com/Products/ENVI)
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge\&logo=geopandas\&logoColor=white)](https://geopandas.org/)
-[![Rasterio](https://img.shields.io/badge/Rasterio-276DC3?style=for-the-badge)](https://rasterio.readthedocs.io/)
-[![Shapely](https://img.shields.io/badge/Shapely-3B7A57?style=for-the-badge)](https://shapely.readthedocs.io/)
-[![STAC](https://img.shields.io/badge/STAC-Data%20Catalogs-4B5563?style=for-the-badge)](https://stacspec.org/)
-[![Sentinel-2](https://img.shields.io/badge/Sentinel--2-Earth%20Observation-003399?style=for-the-badge)](https://sentinel.esa.int/)
+From satellite imagery and spatial data to intelligent geospatial systems.
 
-### 🤖 AI / Machine Learning
+I build AI-driven geospatial applications at the intersection of Remote Sensing, Computer Vision, GeoAI, and Geospatial Intelligence.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)](https://www.tensorflow.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
-[![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)](https://lightgbm.readthedocs.io/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)](https://xgboost.readthedocs.io/)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)](https://docs.ultralytics.com/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)](https://opencv.org/)
+My projects involve working with satellite imagery, spatial data, machine learning, and spatiotemporal analysis to solve real-world problems — from Earth Observation quality control and image segmentation to maritime GEOINT and intelligent digital twins.
 
-### 🧠 Deep Learning & Computer Vision
+My current focus is on developing systems that combine AI + geospatial data + real-world sensing, with an interest in Edge AI, embedded systems, and intelligent sensing.
 
-[![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-8A2BE2?style=for-the-badge)](https://pytorch.org/)
-[![U-Net](https://img.shields.io/badge/U--Net-Semantic%20Segmentation-6A5ACD?style=for-the-badge)](https://arxiv.org/abs/1505.04597)
-[![Attention](https://img.shields.io/badge/Attention%20Mechanisms-Deep%20Learning-FF69B4?style=for-the-badge)](https://pytorch.org/)
-[![BKT](https://img.shields.io/badge/Bayesian%20Knowledge%20Tracing-Learning%20Analytics-4B0082?style=for-the-badge)](https://www.pyro.ai/)
+## 🚀 Featured Projects
 
-### 🛰️ Geospatial Intelligence & Spatial Analytics
+### 🛰️ Sentinel-2 L1C Quality Control Pipeline
 
-[![AIS](https://img.shields.io/badge/AIS-Maritime%20Tracking-006994?style=for-the-badge)](https://www.imo.org/)
-[![SAR](https://img.shields.io/badge/SAR-Synthetic%20Aperture%20Radar-37474F?style=for-the-badge)](https://www.esa.int/)
-[![ST--DBSCAN](https://img.shields.io/badge/ST--DBSCAN-Spatiotemporal%20Clustering-795548?style=for-the-badge)](https://scikit-learn.org/)
-[![GeoJSON](https://img.shields.io/badge/GeoJSON-Data%20Format-43853D?style=for-the-badge\&logo=json\&logoColor=white)](https://geojson.org/)
+Automated Earth Observation data quality-control pipeline for Sentinel-2 L1C products. Combines metadata/rule-based checks with statistical and machine-learning anomaly detection to identify defective satellite scenes.
 
-### 💻 Programming & Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Sentinel-2](https://img.shields.io/badge/-Sentinel--2-blue?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-2e8b57?style=flat-square)
+![Isolation Forest](https://img.shields.io/badge/-Isolation%20Forest-orange?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-ML-red?style=flat-square)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+---
 
-### ⚙️ Tools & Engineering
+### 🚢 Maritime-Cyber GEOINT — AIS/GNSS Spoofing Detection
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://www.linux.org/)
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge\&logo=ros\&logoColor=white)](https://www.ros.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com/)
+Geospatial intelligence system for detecting maritime anomalies and potential AIS/GNSS spoofing using AIS trajectories, SAR detections, clustering, and spatiotemporal analysis.
 
-### 🚀 Data & Application Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GEOINT](https://img.shields.io/badge/-GEOINT-00599C?style=flat-square)
+![AIS](https://img.shields.io/badge/-AIS-0e7490?style=flat-square)
+![SAR](https://img.shields.io/badge/-SAR-155e75?style=flat-square)
+![ST-DBSCAN](https://img.shields.io/badge/-ST--DBSCAN-purple?style=flat-square)
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://streamlit.io/)
-[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge\&logo=leaflet\&logoColor=white)](https://leafletjs.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)](https://jupyter.org/)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yessminechaabouni21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yessminechaabouni21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yessminechaabouni21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🧠 AI Digital Twin for a Smart Classroom
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Provenance-aware AI digital twin combining learner-state estimation, Bayesian Knowledge Tracing, and classroom decision support.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yessminechaabouni21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-red?style=flat-square)
+![BKT](https://img.shields.io/badge/-BKT-7c3aed?style=flat-square)
+![Digital Twin](https://img.shields.io/badge/-Digital%20Twin-0f766e?style=flat-square)
+![AI](https://img.shields.io/badge/-AI-black?style=flat-square)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🌊 S³-MARIS — Edge-AI Maritime Surveillance
+
+AI-driven maritime surveillance concept combining satellite imagery, AIS, SAR, RF and edge intelligence for detecting dark vessels, oil spills, and subsea anomalies.
+
+![Edge AI](https://img.shields.io/badge/-Edge%20AI-1d4ed8?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-2e8b57?style=flat-square)
+![GEOINT](https://img.shields.io/badge/-GEOINT-00599C?style=flat-square)
+![AIS](https://img.shields.io/badge/-AIS-0e7490?style=flat-square)
+![SAR](https://img.shields.io/badge/-SAR-155e75?style=flat-square)
+
+---
+
+### 🌳 Attention-Enhanced Tree Segmentation
+
+Deep-learning pipeline for tree segmentation from high-resolution satellite imagery using U-Net architectures and attention mechanisms.
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![U-Net](https://img.shields.io/badge/-U--Net-8b5cf6?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-green?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-2e8b57?style=flat-square)
+
+## 🏆 Awards & Achievements
+
+| Achievement | Event | Year |
+|-------------|-------|------|
+| 🥉 3rd Place — Enterprise Award | ActInSpace Tunisia × TELNET Innovate | 2026 |
+| 🏅 4th Place | Tunisian Robotics Challenge (TRC) | 2025 |
+
+## 🛠️ Tech Stack
+
+**Geospatial & EO**
+
+`Google Earth Engine` · `GeoPandas` · `Rasterio` · `STAC` · `Sentinel-2` · `QGIS`
+
+**AI / ML**
+
+`PyTorch` · `TensorFlow` · `scikit-learn` · `LightGBM` · `XGBoost`
+
+**Computer Vision**
+
+`YOLOv8` · `U-Net` · `OpenCV`
+
+**GEOINT & Spatial Analytics**
+
+`AIS` · `SAR` · `ST-DBSCAN` · `GeoJSON`
+
+**Programming**
+
+`Python` · `C++` · `Java` · `JavaScript` · `SQL` · `MATLAB`
+
+**Engineering**
+
+`Git` · `Linux` · `ROS2` · `Docker` · `Streamlit` · `Jupyter`
+
+## 🎓 Education & Certifications
+
+- 🎓 **Geomatics Engineering Student** — (your university, year)
+- 📜 (Add relevant certifications here)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
