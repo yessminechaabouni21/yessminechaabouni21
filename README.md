@@ -109,8 +109,8 @@ Deep-learning pipeline for tree segmentation from high-resolution satellite imag
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Geomatics Engineering Student** — (your university, year)
-- 📜 (Add relevant certifications here)
+- 🎓 **Geomatics Engineering Student** — (Manouba School of Engineering, 4th year)
+- 📜 Quantum Machine Learning-IBM
 
 ## 🌐 Connect With Me
 
